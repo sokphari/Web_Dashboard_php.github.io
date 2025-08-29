@@ -37,7 +37,7 @@
             <div class="row mt-3 justify-content-center " style="font-family: var(--main-font);">
                 <div class="col-12 col-sm-6 d-flex flex-column align-items-center">
                     <div class="card w-100 rounded-0 " style="max-width: 700px; height: 90vh; overflow: hidden;">
-                        <img src="./src/women/T-shiirt_drink1.jpg" alt="" class="card-img-top rounded-0 h-100 ">
+                        <img src="./T-shiirt_drink1.jpg" alt="" class="card-img-top rounded-0 h-100 ">
                     </div>
                     <a href="" id="women" class="btn py-2 w-100 mt-2 border border-black rounded-0" style="max-width: 700px;">
                         Women Collection
@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-12 col-sm-6 d-flex flex-column align-items-center">
                     <div class="card w-100 rounded-0" style="max-width: 700px; height:90vh; overflow:hidden">
-                        <img src="./src/men/men-sit1.jpg" alt="" class="card-img-top rounded-0 h-100">
+                        <img src="./men-sit1.jpg" alt="" class="card-img-top rounded-0 h-100">
                     </div>
                     <a href="" id="men" class="btn py-2 w-100 mt-2 border border-black rounded-0" style="max-width: 700px;">
                         Men Collection

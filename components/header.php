@@ -190,7 +190,7 @@
                                 <i class="fa-solid fa-bars fs-4"></i>
                             </a>
                         </div>
-                        <img src="./src/logo/logo.png" style="width: 20%; height: 20%; margin-left: 50px;  margin-top: 5px;" alt="">
+                        <img src="./logo.png" style="width: 20%; height: 20%; margin-left: 50px;  margin-top: 5px;" alt="">
                         <div class="icon">
                             <i class="fa-solid fa-magnifying-glass fs-5"></i>
                             <i class="fa-regular fa-bell fs-5"></i>
